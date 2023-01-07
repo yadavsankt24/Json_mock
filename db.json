@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "email": "nihiratechiees@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "email": "email@email.com",
+      "password": "ntuser"
+    }
+  ]
+}
